@@ -1,4 +1,6 @@
-# Programmering C 2021
+# Prog-C 2021-2022
 
-- [html demo](html-demo/) 
+Demo af github for programmeringshold
+
+- [HTML demo](html-demo/) 
 - [Min tændstikmand](stickman/) 
