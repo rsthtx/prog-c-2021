@@ -2,3 +2,5 @@ Indbagt pizza
 
 Ingredienser
 - dej
+- Tomat
+- skinke
