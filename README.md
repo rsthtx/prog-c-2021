@@ -3,4 +3,4 @@
 Demo af github for programmeringshold
 
 - [HTML demo](html-demo/) 
-- [Min tændstikmand](stickman/) 
+- [Min tændstikmand](stickman-demo/) 
