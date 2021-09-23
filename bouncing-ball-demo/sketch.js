@@ -12,3 +12,5 @@ function draw() {
   // xPos = xPos + 1
   xPos  += 1
 }
+
+Hold B har dansk i 2-4 lektion i lokale 4005 i stedet for 4101
