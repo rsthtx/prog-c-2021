@@ -5,6 +5,7 @@ Demo af github for programmeringshold
 - [HTML demo](html-demo/) 
 - [Min tændstikmand](stickman-demo/)
 - [Bounce demo](bouncing-ball-demo/)
+- [Logic demo](logic-demo/)
 
 ## Deltagere
 
