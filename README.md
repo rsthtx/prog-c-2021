@@ -1,11 +1,12 @@
 # Prog-C 2021-2022
 
-Demo af github for programmeringshold
+Her er en oversigt over projekter
 
 - [HTML demo](html-demo/) 
 - [Min tændstikmand](stickman-demo/)
 - [Bounce demo](bouncing-ball-demo/)
 - [Logic demo](logic-demo/)
+- [Loop demo](loop-demo/)
 
 ## Deltagere
 
