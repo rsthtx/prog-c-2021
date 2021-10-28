@@ -8,6 +8,7 @@ Her er en oversigt over projekter
 - [Logic demo](logic-demo/)
 - [Loop demo](loop-demo/)
 - [Event demo](event-demo/)
+- [Line draw demo](line-draw-demo/)
 
 ## Deltagere
 
