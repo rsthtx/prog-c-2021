@@ -3,9 +3,9 @@
 // Optæl i et array hyppigheden af summen af øjenantallene.
 
 const args = process.argv.slice(2)
-let numberOfDice = args[0] || 6
-let numberOfSides = args[1] || 6
-let numberOfThrows = args[2] || 100
+let numberOfDice = Number(args[0]) || 6
+let numberOfSides = Number(args[1]) || 6
+let numberOfThrows = Number(args[2]) || 100
 
 let sums = []
 // udfør et antal kast 
