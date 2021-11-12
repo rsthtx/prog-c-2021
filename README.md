@@ -9,6 +9,7 @@ Her er en oversigt over projekter
 - [Loop demo](loop-demo/)
 - [Event demo](event-demo/)
 - [Line draw demo](line-draw-demo/)
+- [Multi line draw demo](multi-line-draw-demo/)
 
 ## Deltagere
 
