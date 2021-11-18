@@ -10,6 +10,7 @@ Her er en oversigt over projekter
 - [Event demo](event-demo/)
 - [Line draw demo](line-draw-demo/)
 - [Multi line draw demo](multi-line-draw-demo/)
+- [Object demo](objects-demo/)
 
 ## Deltagere
 
