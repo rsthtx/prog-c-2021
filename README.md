@@ -6,7 +6,6 @@ Her er en oversigt over projekter
 - [Min tændstikmand](stickman-demo/)
 - [Bounce demo](bouncing-ball-demo/)
 - [Logic demo](logic-demo/)
-- [Loop demo](loop-demo/)
 - [Event demo](event-demo/)
 - [Line draw demo](line-draw-demo/)
 - [Multi line draw demo](multi-line-draw-demo/)
