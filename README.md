@@ -10,7 +10,15 @@ Her er en oversigt over projekter
 - [Line draw demo](line-draw-demo/)
 - [Multi line draw demo](multi-line-draw-demo/)
 - [Object demo](objects-demo/)
-- [CLI demos](cli-demos/)
+
+# CLI demos
+
+Eksempler der kan køres vha node.js i en kommandoprompt.
+
+- [nested loops](cli-demos/nested-loops-demo.js)
+- [loop exercises](cli-demos/loop-exercises.js)
+- [function calls](cli-demos/function-demo.js)
+- [for...of loop with array](cli-demos/for-of-array-demo.js)
 
 ## Deltagere
 
