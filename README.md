@@ -10,6 +10,7 @@ Her er en oversigt over projekter
 - [Line draw demo](line-draw-demo/)
 - [Multi line draw demo](multi-line-draw-demo/)
 - [Object demo](objects-demo/)
+- [CLI demos](cli-demos/)
 
 ## Deltagere
 
