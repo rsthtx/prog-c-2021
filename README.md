@@ -9,7 +9,8 @@ Her er en oversigt over projekter
 - [Event demo](event-demo/)
 - [Line draw demo](line-draw-demo/)
 - [Multi line draw demo](multi-line-draw-demo/)
-- [Object demo](objects-demo/)
+- [Objects demo](objects-demo/)
+- [Objects simple demo](objects-simple-demo/)
 
 # CLI demos
 
