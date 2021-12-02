@@ -21,6 +21,9 @@ Eksempler der kan køres vha node.js i en kommandoprompt.
 - [function calls](cli-demos/function-demo.js)
 - [for...of loop with array](cli-demos/for-of-array-demo.js)
 
+# Julekalender
+- [Advent of Code](advent-of-code/)
+
 ## Deltagere
 
 - [Cian - inrate](https://inrate.github.io/) ([source](https://github.com/inrate/inrate.github.io))
