@@ -26,6 +26,10 @@ Eksempler der kan køres vha node.js i en kommandoprompt.
 ## Julekalender
 - [Advent of Code](advent-of-code/)
 
+## Godot game demo
+
+- [Dodge the creeps 2022](godot-demo/web/Dodge%20The%20Creeps%202022.html)
+
 ## Deltagere
 - [Cian - inrate](https://inrate.github.io/) ([source](https://github.com/inrate/inrate.github.io))
 - [Jannek - jannekwithe](https://jannekwithe.github.io/) ([source](https://github.com/jannekwithe/jannekwithe.github.io))
